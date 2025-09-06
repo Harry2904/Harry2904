@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit Purohit
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java,Python,MySQL
-- 💞️ I’m looking to collaborate on projects related to Java and Python
+- 👀 I’m a Mechanical Engineer, but I have an interest in Software Development
+- 🌱 I’m currently learning Java, Python, MySQL, and MATLAB
+- 💞️ I’m looking to collaborate on projects related to Java, Python, and MATLAB
 - 📫 How to reach me https://www.linkedin.com/in/harshit-purohit-294199601
 
 <!---
